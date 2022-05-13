@@ -42,6 +42,7 @@ Componets:
 - [Arduino Uno (1pcs)]()
 - [Brushless Gimbal 2204 260KV]()
 - [Bearing 6800zz (1pcs)]() 
+- [Bowden Tube 3x2 (22mm)]() 
 
 
 # License 
