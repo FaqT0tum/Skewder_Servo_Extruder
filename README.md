@@ -2,7 +2,7 @@
 
 
 ![](IMG/main.png)
-![](IMG/orbion_stl_map.png)
+![](IMG/roller.png)
 
 
 # PAY ATTENTION
