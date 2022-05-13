@@ -3,6 +3,7 @@
 
 ![](IMG/main.png)
 ![](IMG/roller.png)
+![](IMG/slicer.png)
 
 
 # PAY ATTENTION
@@ -35,6 +36,7 @@ Componets:
 - [Bearing MR63rs (6pcs)]()
 - [Springs multi wave OD(max):19mm Height:8mm (1pcs)]()
 - [M2x4 (13pcs)]()
+- [M2x8 (2pcs)]()
 - [Encoder ATM 103-v (1pcs)]()
 - [SimpleFOC 2.0.4 (1pcs)]()
 - [Arduino Uno (1pcs)]()
