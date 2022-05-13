@@ -44,6 +44,10 @@ Componets:
 - [Bearing 6800zz (1pcs)]() 
 - [Bowden Tube 3x2 (22mm)]() 
 
+# Special Thanks  
+- [vvega007 - Creator of the Spiral Extruder on which this project is based](https://github.com/vvega007/Spiral-extruder)
+- [Rcarlyle (Reddit Nickname) - The first to implement this solution for 3D printing in 2015](https://groups.google.com/g/3dp-ideas/c/YGFYajwyVrc/m/gGVA40caWi4J)
+
 
 # License 
 ### [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
