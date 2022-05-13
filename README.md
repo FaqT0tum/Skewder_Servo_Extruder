@@ -33,16 +33,16 @@ The ORBION project is OpenSource so if you have the pleasure of supporting my ne
 
 Componets:
 
-- [Bearing MR63rs (6pcs)]()
-- [Springs multi wave OD(max):19mm Height:8mm (1pcs)]()
-- [M2x4 (13pcs)]()
-- [M2x8 (2pcs)]()
-- [Encoder ATM 103-v (1pcs)]()
-- [SimpleFOC 2.0.4 (1pcs)]()
-- [Arduino Uno (1pcs)]()
-- [Brushless Gimbal 2204 260KV]()
-- [Bearing 6800zz (1pcs)]() 
-- [Bowden Tube 3x2 (22mm)]() 
+- [Bearing MR63rs (6pcs)](https://s.click.aliexpress.com/e/_9Gm6Fj)
+- [Springs multi-wave OD(max):19mm ID(min):4mm Max Height in compression:5mm (1pcs)](https://www.industrial-springs.com/mw0437-0275-08s)
+- [M2x4 (13pcs)](https://s.click.aliexpress.com/e/_AMxD1F)
+- [M2x8 (2pcs)](https://s.click.aliexpress.com/e/_AMxD1F)
+- [Encoder ATM 103-v (1pcs)](https://s.click.aliexpress.com/e/_AfEo9f)
+- [SimpleFOC 2.0.4 (1pcs)](https://s.click.aliexpress.com/e/_AfmIJ7)
+- [Arduino Uno (1pcs)](https://s.click.aliexpress.com/e/_AVIUA1)
+- [Brushless Gimbal 2204 260KV](https://s.click.aliexpress.com/e/_9fSAB7)
+- [Bearing 6800zz (1pcs)](https://s.click.aliexpress.com/e/_9Iewj3) 
+- [Bowden Tube 3x2 (22mm)](https://s.click.aliexpress.com/e/_APil65) 
 
 # Special Thanks  
 - [vvega007 - Creator of the Spiral Extruder on which this project is based](https://github.com/vvega007/Spiral-extruder)
