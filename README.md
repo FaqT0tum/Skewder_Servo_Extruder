@@ -1,7 +1,12 @@
 # Axial Rotation Servo Extruder (WIP - Work in Progress)
 
+## Closed Loop
+![](IMG/main1.png)
 
-![](IMG/main.png)
+## Open Loop
+![](IMG/main2.png)
+
+![](IMG/springs.png)
 ![](IMG/roller.png)
 ![](IMG/slicer.png)
 
@@ -33,16 +38,25 @@ The ORBION project is OpenSource so if you have the pleasure of supporting my ne
 
 Componets:
 
+## ClosedLoop
 - [Bearing MR63rs (6pcs)](https://s.click.aliexpress.com/e/_9Gm6Fj)
-- [Springs multi-wave OD(max):19mm ID(min):4mm Max Height in compression:5mm (1pcs)](https://www.industrial-springs.com/mw0437-0275-08s)
+- [Springs multi-wave (1pcs)](https://www.molle-industriali.it/mw0750-0250-13s)
 - [M2x4 (13pcs)](https://s.click.aliexpress.com/e/_AMxD1F)
 - [M2x8 (2pcs)](https://s.click.aliexpress.com/e/_AMxD1F)
 - [Encoder ATM 103-v (1pcs)](https://s.click.aliexpress.com/e/_AfEo9f)
 - [SimpleFOC 2.0.4 (1pcs)](https://s.click.aliexpress.com/e/_AfmIJ7)
 - [Arduino Uno (1pcs)](https://s.click.aliexpress.com/e/_AVIUA1)
-- [Brushless Gimbal 2204 260KV](https://s.click.aliexpress.com/e/_9fSAB7)
-- [Bearing 6800zz (1pcs)](https://s.click.aliexpress.com/e/_9Iewj3) 
-- [Bowden Tube 3x2 (22mm)](https://s.click.aliexpress.com/e/_APil65) 
+- [Brushless Gimbal 2804 100KV](https://s.click.aliexpress.com/e/_9fSAB7)
+- [Bearing 6802-2RS (1pcs)](https://s.click.aliexpress.com/e/_9Iewj3) 
+
+## OpenLoop
+- [Bearing MR63rs (6pcs)](https://s.click.aliexpress.com/e/_9Gm6Fj)
+- [Bearing 684ZZ (1pcs)](https://s.click.aliexpress.com/e/_DdaDbCB)
+- [M2x4 (13pcs)](https://s.click.aliexpress.com/e/_AMxD1F)
+- [SimpleFOC 2.0.4 (1pcs)](https://s.click.aliexpress.com/e/_AfmIJ7)
+- [Arduino Uno (1pcs)](https://s.click.aliexpress.com/e/_AVIUA1)
+- [Brushless Gimbal 2804 100KV](https://s.click.aliexpress.com/e/_9fSAB7)
+- [Compression Springs (1pcs)](https://www.industrial-springs.com/11180)
 
 # Special Thanks  
 - [vvega007 - Creator of the Spiral Extruder on which this project is based](https://github.com/vvega007/Spiral-extruder)
